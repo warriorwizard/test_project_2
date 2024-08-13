@@ -6,8 +6,14 @@
 dummy-haj
 
 [INTRANET]
+hello2
+hello1
+<<<<<<< HEAD
+hello02
+=======
 hello01
 
+>>>>>>> 15bca4144a54fba9edcc6467567c1b01fc2a3078
 
 hello
 vwdewoblve07411.sddc.vwgroup.com
