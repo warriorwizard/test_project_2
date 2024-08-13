@@ -6,7 +6,7 @@
 dummy-haj
 
 [INTRANET]
-hello02
+hello2
 
 
 hello
